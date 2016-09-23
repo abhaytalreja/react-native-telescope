@@ -28,7 +28,6 @@ You've got a few ways you can run the app for iOS:
 _Note_: You must be on a Mac for this.
 
 - Get the IP address of your machine (you can run `ipconfig getifaddr en1` to do so)
-- In `RNApp/ios/RNApp/AppDelegate.m` change `localhost` to your machine's IP address
 - In `RNApp/app/config/settings.js` change `localhost` to your machine's IP address
 - Plug your device into your computer (make sure it's on the same network)
 - Open the project in Xcode
