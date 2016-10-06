@@ -1,4 +1,4 @@
-![Alt text](https://files.slack.com/files-pri/T02L990A7-F2L6UFTRU/pasted_image_at_2016_10_06_10_52_am.png "Demo")
+![Alt text](/demo.png "Demo")
 
 # react-native-telescope
 This is a react native version for Telescope. This project will out of the box support as a reader to Telescope. We will try to make this project as modular as possible.
@@ -36,3 +36,6 @@ _Note_: You must be on a Mac for this.
 - Select your device in Xcode and press "Build and run"
 
 For further information please reference the [official docs](https://facebook.github.io/react-native/docs/running-on-device-ios.html#content).
+=======
+# react-native-telescope
+This is a react native version for Telescope. This project will out of the box support as a reader to Telescope. We will try to make this project as modular as possible. Any PR's welcome.
